@@ -1,0 +1,7 @@
+Console Input: hey
+Built-in File Read: text
+text
+text
+Pandas File Read:    text
+0  text
+1  text
