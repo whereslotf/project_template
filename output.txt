@@ -1,4 +1,4 @@
-Console Input: рун
+Console Input: hey
 Built-in File Read: text
 text
 text
